@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Epicmanpreet01
 - 👀 I’m interested in learning new languages in hopes mastering quite a few of them in future
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning ai/ml and data visualization while also working on some full stack projects (hopefully aiming to integrate my future ai models in my mern projects)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
