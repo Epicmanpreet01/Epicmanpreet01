@@ -9,13 +9,13 @@
 
 ## Tech Stack & Tools
 
-| Category           | Technologies                                      |
-|--------------------|--------------------------------------------------|
-| **Frontend**       | React, JavaScript, HTML/CSS, Tailwind            |
-| **Backend**        | Node.js, Express, MongoDB, Python                |
-| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras          |
-| **Deployment**     | Streamlit, Flask                                 |
-| **Others**         | Git, GitHub, Matplotlib, Seaborn                 |
+| Category           | Technologies                                       |
+|--------------------|----------------------------------------------------|
+| **Frontend**       | React, JavaScript, HTML/CSS, Tailwind              |
+| **Backend**        | Node.js, Express, MongoDB, Python, MySql, SqlLite  |
+| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras            |
+| **Deployment**     | Streamlit, Flask                                   |
+| **Others**         | Git, GitHub, Matplotlib, Seaborn                   |
 
 ---
 
