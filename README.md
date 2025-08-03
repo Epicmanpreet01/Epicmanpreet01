@@ -1,73 +1,83 @@
 # Hi there, I’m **Manpreet ([@Epicmanpreet01](https://github.com/Epicmanpreet01))** 👋
 
-** About Me**  
-- 💻 A second-year B.Tech (CSE) student from India, passionate about learning and mastering emerging tech  
+## 🚀 About Me
+- 💻 A third-year B.Tech (CSE) student from India, passionate about learning and mastering emerging tech  
 - 🤖 Currently focused on AI/ML, data visualization, and building full-stack applications  
 - 🔄 Aiming to integrate custom AI/ML models into MERN‑stack projects
 
 ---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 | Category           | Technologies                                      |
 |--------------------|--------------------------------------------------|
-| **Frontend**       | React, JavaScript, HTML/CSS                     |
-| **Backend**        | Node.js, Express, MongoDB, Python               |
-| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras         |
-| **Deployment**     | Streamlit, Flask                                |
-| **Others**         | Git, GitHub, Data Visualization (Matplotlib, Seaborn) |
+| **Frontend**       | React, JavaScript, HTML/CSS, Tailwind            |
+| **Backend**        | Node.js, Express, MongoDB, Python                |
+| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras          |
+| **Deployment**     | Streamlit, Flask                                 |
+| **Others**         | Git, GitHub, Matplotlib, Seaborn                 |
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### **Brain Tumor Prediction**  
-Deep learning-based MRI classification system using VGG16 to detect glioma, meningioma, pituitary tumors, or healthy brains. Built with Keras and TensorFlow; includes accuracy metrics, confusion matrix, and visual output. :contentReference[oaicite:1]{index=1}
-
-### **JoJo Stand Strength ML**  
-A machine learning analysis of JoJo’s Stand stats using clustering and classification to predict strength tiers. Includes KMeans clustering, multiple supervised models, and interactive predictions. :contentReference[oaicite:2]{index=2}
-
-### **NOVA – Virtual Assistant**  
-Custom voice/text assistant developed in Python. Features include playing music, opening apps/websites, YouTube playback, messaging, and video calls via APIs like Spotify and GROQ. :contentReference[oaicite:3]{index=3}
-
-### **Simple MERN E‑commerce Page**  
-A full-stack MERN project featuring product listings, user authentication, and backend APIs. JavaScript-based with a clean frontend. :contentReference[oaicite:4]{index=4}
+### 🎗️ Brain Tumor Prediction  
+Deep learning-based MRI classification system using VGG16 to detect glioma, meningioma, pituitary tumors, or healthy brains. Built with Keras and TensorFlow.  
+🔗 [Repository](https://github.com/Epicmanpreet01/brainTumorPrediction)
 
 ---
 
-## What I’m Working On
-- Building full-stack projects (MERN) integrated with AI/ML capabilities  
-- Enhancing my skills in computer vision, deep learning, and deployable web apps  
-- Improving portfolio and README presentation with dynamic badges, visitor stats, and activity trackers
+### 🌀 JoJo Stand Strength ML  
+A machine learning analysis of JoJo’s Stand stats using clustering and classification to predict strength tiers.  
+🔗 [Repository](https://github.com/Epicmanpreet01/jojo-stand-ml)
 
 ---
 
-## Let’s Collaborate
-I’m open to contributing on interesting projects, especially in the AI/ML and web-dev space. Reach out to me if you're working on something exciting or need help with:
-
-- Integrating ML models into web applications  
-- Data visualization and exploratory analysis  
-- Backend APIs or full-stack development in the MERN ecosystem
+### 🧠 NOVA – Virtual Assistant  
+Custom voice/text assistant developed in Python. Features include music playback, YouTube automation, messaging, and app control via APIs like Spotify and GROQ.  
+🔗 [Repository](https://github.com/Epicmanpreet01/NOVA)
 
 ---
 
-## Connect with Me
-- **Email:** manpreet210028@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/manpreetsingh2100/](LinkedIn Profile)
+### ✅ MERN ToDo App  
+A clean, full-stack ToDo list application with user authentication, JWT-based protected routes, MongoDB storage, and a responsive frontend.  
+🔗 [Repository](https://github.com/Epicmanpreet01/mern-todo)
+
 ---
 
-## GitHub Stats  
+## 📌 What I’m Working On
+- Building MERN apps integrated with custom AI/ML models  
+- Deepening my skills in computer vision and NLP  
+- Enhancing my GitHub profile and portfolio with live widgets and dynamic stats
+
+---
+
+## 🤝 Let’s Collaborate
+I’m open to interesting collaborations in:
+- AI/ML for real-world problems  
+- Data dashboards and visual storytelling  
+- Full-stack JS development (MERN)
+
+---
+
+## 📬 Connect with Me
+- 📧 **Email**: manpreet210028@gmail.com  
+- 💼 **LinkedIn**: [Manpreet Singh](https://www.linkedin.com/in/manpreetsingh2100/)
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  <!-- GitHub Readme Stats Card | Example Markdown -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="Manpreet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epicmanpreet01&theme=light" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧩 Fun Fact
-I love music and often code to good tunes! 🎶
+## 🎧 Fun Fact
+I love music and often code to the rhythm of a good beat 🎶
 
 ---
 
-Thanks for stopping by! If you'd like to collaborate or just say hello, feel free to connect 😊
+Thanks for visiting! If you'd like to collaborate or just say hi, feel free to reach out 😊
