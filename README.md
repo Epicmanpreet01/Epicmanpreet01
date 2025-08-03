@@ -1,13 +1,13 @@
 # Hi there, I’m **Manpreet ([@Epicmanpreet01](https://github.com/Epicmanpreet01))** 👋
 
-## 🚀 About Me
-- 💻 A third-year B.Tech (CSE) student from India, passionate about learning and mastering emerging tech  
-- 🤖 Currently focused on AI/ML, data visualization, and building full-stack applications  
-- 🔄 Aiming to integrate custom AI/ML models into MERN‑stack projects
+## About Me
+-  A third-year B.Tech (CSE) student from India, passionate about learning and mastering emerging tech  
+-  Currently focused on AI/ML, data visualization, and building full-stack applications  
+-  Aiming to integrate custom AI/ML models into MERN‑stack projects
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 | Category           | Technologies                                      |
 |--------------------|--------------------------------------------------|
@@ -19,40 +19,40 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎗️ Brain Tumor Prediction  
+### Brain Tumor Prediction  
 Deep learning-based MRI classification system using VGG16 to detect glioma, meningioma, pituitary tumors, or healthy brains. Built with Keras and TensorFlow.  
 🔗 [Repository](https://github.com/Epicmanpreet01/brainTumorPrediction)
 
 ---
 
-### 🌀 JoJo Stand Strength ML  
+### JoJo Stand Strength ML  
 A machine learning analysis of JoJo’s Stand stats using clustering and classification to predict strength tiers.  
 🔗 [Repository](https://github.com/Epicmanpreet01/jojo-stand-ml)
 
 ---
 
-### 🧠 NOVA – Virtual Assistant  
+### NOVA – Virtual Assistant  
 Custom voice/text assistant developed in Python. Features include music playback, YouTube automation, messaging, and app control via APIs like Spotify and GROQ.  
 🔗 [Repository](https://github.com/Epicmanpreet01/NOVA)
 
 ---
 
-### ✅ MERN ToDo App  
+### MERN ToDo App  
 A clean, full-stack ToDo list application with user authentication, JWT-based protected routes, MongoDB storage, and a responsive frontend.  
 🔗 [Repository](https://github.com/Epicmanpreet01/mern-todo)
 
 ---
 
-## 📌 What I’m Working On
+## What I’m Working On
 - Building MERN apps integrated with custom AI/ML models  
 - Deepening my skills in computer vision and NLP  
 - Enhancing my GitHub profile and portfolio with live widgets and dynamic stats
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 I’m open to interesting collaborations in:
 - AI/ML for real-world problems  
 - Data dashboards and visual storytelling  
@@ -60,13 +60,13 @@ I’m open to interesting collaborations in:
 
 ---
 
-## 📬 Connect with Me
-- 📧 **Email**: manpreet210028@gmail.com  
-- 💼 **LinkedIn**: [Manpreet Singh](https://www.linkedin.com/in/manpreetsingh2100/)
+## Connect with Me
+-  **Email**: manpreet210028@gmail.com  
+-  **LinkedIn**: [Manpreet Singh](https://www.linkedin.com/in/manpreetsingh2100/)
 
 ---
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -75,7 +75,7 @@ I’m open to interesting collaborations in:
 
 ---
 
-## 🎧 Fun Fact
+## Fun Fact
 I love music and often code to the rhythm of a good beat 🎶
 
 ---
