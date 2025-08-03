@@ -13,9 +13,9 @@
 |--------------------|----------------------------------------------------|
 | **Frontend**       | React, JavaScript, HTML/CSS, Tailwind              |
 | **Backend**        | Node.js, Express, MongoDB, Python, MySql, SqlLite  |
-| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras            |
+| **ML & DL**        | Python, Scikit-Learn, TensorFlow, Keras, PyTorch   |
 | **Deployment**     | Streamlit, Flask                                   |
-| **Others**         | Git, GitHub, Matplotlib, Seaborn                   |
+| **Others**         | Git, GitHub, Matplotlib, Seaborn, Tableau          |
 
 ---
 
