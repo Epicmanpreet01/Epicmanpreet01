@@ -71,6 +71,8 @@ I’m open to interesting collaborations in:
   <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epicmanpreet01&theme=light" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicmanpreet01&layout=compact&theme=light" alt="Top Languages" />
 </p>
 
 ---
