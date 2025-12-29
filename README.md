@@ -68,13 +68,20 @@ Repository:
 
 ---
 
-### **JoJo Stand Strength ML**
+### **Real-Time Facial Age & Gender Detection System**
 
-A machine learning project analyzing JoJo’s Stand statistics using clustering and classification techniques to predict strength tiers.
-Focuses on feature engineering, exploratory analysis, and model comparison.
+A production-style **computer vision pipeline** for real-time **facial age and gender recognition** built using modern deep learning models and deployed as an interactive **Streamlit web application**. ([GitHub][1])
+
+**Key Highlights**
+
+* **YOLOv11-based face detection** for high-speed and accurate face localization. ([GitHub][1])
+* **MTCNN face alignment** ensures consistent face preprocessing for classification. ([GitHub][1])
+* **Multi-head ResNet50 model** jointly predicts **age groups** (6 classes) and **gender** from facial crops with a shared backbone. ([GitHub][1])
+* **Real-time webcam & image upload support** with live bounding boxes and labeled predictions. ([GitHub][1])
+* Modular and extensible architecture ideal for demos, research, and prototype production. ([GitHub][1])
 
 Repository:
-[https://github.com/Epicmanpreet01/jojo-stand-ml](https://github.com/Epicmanpreet01/jojo-stand-ml)
+[https://github.com/Epicmanpreet01/RealTime-FacialAgeGenderDetection-YOLOv11-MultiHeadResnetCNN-FunLittleProject](https://github.com/Epicmanpreet01/RealTime-FacialAgeGenderDetection-YOLOv11-MultiHeadResnetCNN-FunLittleProject)
 
 ---
 
