@@ -16,11 +16,17 @@ My primary interests include:
 ## Tech Stack
 
 **Frontend:** React, JavaScript, HTML, CSS, Tailwind, React Native (Expo)
+
 **Backend:** Node.js, Express.js, MongoDB (Mongoose), REST APIs, WebSockets
+
 **AI / ML:** Python, PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV, Hugging Face
+
 **ML Services:** FastAPI, XGBoost, SHAP / LIME
+
 **Databases:** MongoDB, MySQL, SQLite
+
 **Dev & Deployment:** Git, GitHub, Docker (basic), Render, Vercel, Streamlit
+
 **Visualization:** Matplotlib, Seaborn, Tableau
 
 ---
