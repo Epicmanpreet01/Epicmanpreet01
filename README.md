@@ -67,13 +67,24 @@ I’m open to interesting collaborations in:
 ---
 
 ## GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&theme=light&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epicmanpreet01&theme=light" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicmanpreet01&layout=compact&theme=light" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+  <br/><br/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Epicmanpreet01&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+  <br/><br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicmanpreet01&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
+
 
 ---
 
