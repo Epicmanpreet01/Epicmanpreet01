@@ -101,9 +101,7 @@ Open to collaborating on:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Epicmanpreet01&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Epicmanpreet01&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicmanpreet01&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false">
+    <img  alt="Epicmanpreet01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Epicmanpreet01?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false" />
+  </a>
 </p>
