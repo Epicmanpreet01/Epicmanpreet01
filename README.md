@@ -43,19 +43,21 @@ Repository:
 
 ---
 
-### **Brain Tumor Prediction**
+### **WinPet – Desktop Companion Application**
 
-Deep learning-based MRI classification using **VGG16** to detect brain tumors and healthy cases.
-Built with **TensorFlow and Keras**, focusing on preprocessing and evaluation.
+A Windows desktop companion application built using **PySide6 (Qt)** and **pystray**.
+Features an animated, always-on-top character that lives on the desktop, supports drag interaction, multiple animation “looks,” persistent configuration, and automatic startup integration.
+
+Designed as a **production-ready standalone Windows executable**, with clean separation between bundled assets and user data.
 
 Repository:
-[https://github.com/Epicmanpreet01/brainTumorPrediction](https://github.com/Epicmanpreet01/brainTumorPrediction)
+[https://github.com/Epicmanpreet01/WinPet](https://github.com/Epicmanpreet01/WinPet)
 
 ---
 
 ### **NOVA – Virtual Assistant**
 
-A Python-based voice and text assistant supporting music playback, YouTube automation, app control, and API integrations.
+A Python-based voice and text assistant supporting music playback, YouTube automation, app control, and external API integrations.
 
 Repository:
 [https://github.com/Epicmanpreet01/NOVA](https://github.com/Epicmanpreet01/NOVA)
@@ -102,6 +104,6 @@ Open to collaborating on:
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false">
-    <img  alt="Epicmanpreet01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Epicmanpreet01?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false" />
+    <img alt="Epicmanpreet01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Epicmanpreet01?cardType=level&theme=github-dark&fontFamily=Advent%20Pro&preferLogin=false" />
   </a>
 </p>
