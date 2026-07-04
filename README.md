@@ -13,24 +13,6 @@ My primary interests include:
 
 ---
 
-## Tech Stack
-
-**Frontend:** React, JavaScript, HTML, CSS, Tailwind, React Native (Expo)
-
-**Backend:** Node.js, Express.js, MongoDB (Mongoose), REST APIs, WebSockets
-
-**AI / ML:** Python, PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV, Hugging Face
-
-**ML Services:** FastAPI, XGBoost, SHAP / LIME
-
-**Databases:** MongoDB, MySQL, SQLite
-
-**Dev & Deployment:** Git, GitHub, Docker (basic), Render, Vercel, Streamlit
-
-**Visualization:** Matplotlib, Seaborn, Tableau
-
----
-
 ## Featured Projects
 
 ### **FutureGuard – Student Dropout Risk Prediction**
@@ -90,13 +72,6 @@ Open to collaborating on:
 * Intelligent full-stack platforms
 * Data analytics and visualization systems
 * Research-oriented ML or system design work
-
----
-
-## Contact
-
-* **Email:** [manpreet210028@gmail.com](mailto:manpreet210028@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/manpreetsingh2100](https://www.linkedin.com/in/manpreetsingh2100)
 
 ---
 
